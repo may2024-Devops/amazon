@@ -1,2 +1,2 @@
-Hello adding this line in master branch..
+Hello adding this line in master branch on june 2nd for checking merge conflict
 Hello...This file contains StringUtils logic
